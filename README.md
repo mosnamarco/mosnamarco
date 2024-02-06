@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=60&pause=1000&color=00D5F7&center=true&vCenter=true&width=1000&height=200&lines=Marco!+That's+meeeeee~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F74444&center=true&vCenter=true&random=false&width=435&lines=p+%22Marco+D.+Mosna%22)](https://git.io/typing-svg)
 <h3 align="center">Computer Science Student | Frontend Developer</h3>
