@@ -1,16 +1,8 @@
-<div align="center">
-  <table>
-    <tr>
-      <!-- Github Stats -->
-      <td>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=mosnamarco&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
-        </div>  
-      </td>       
-      <!-- Most used Languages -->
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosnamarco&hide_border=true&layout=compact&theme=github_dark" align="left" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mosnamarco&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosnamarco&theme=tokyo-night&hide_border=true"/>
+</p>
+
